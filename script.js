@@ -1,7 +1,5 @@
-// Prompt the user for their name
 let playerName = prompt("What is your name?");
 
-// Prompt the user for the number of holes they want to play
 let numHoles = parseInt(prompt("Would you like to play 3 or 6 holes of mini golf?"));
 
 // Validate input to ensure it's either 3 or 6
